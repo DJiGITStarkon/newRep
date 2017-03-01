@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1488361614 source:d:\progs\sample\main.cpp
+	"MyDataBase.cpp"
+
+1488364330 d:\progs\sample\mydatabase.h
+	"transport.h"
+	"stop.h"
+	<fstream>
+
+1488298289 d:\progs\sample\transport.h
+	<string.h>
+
+1488031510 d:\progs\sample\stop.h
+	<string.h>
+
+1488364349 d:\progs\sample\mydatabase.cpp
+	"MyDataBase.h"
+	<iostream>
+	<stdlib.h>
+	<algorithm>
+
